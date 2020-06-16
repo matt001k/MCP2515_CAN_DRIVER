@@ -105,6 +105,7 @@ Lastly, in Normal Mode on the controller, the data being sent out was analyzed o
 
 A data bit of "1" was analyzed in order to determine if the prescaled baud rate was initialized properly. The results are as follows:
 ![Alt text](https://github.com/matt001k/MCP2515_CAN_DRIVER/blob/master/MCP2515/photos/CAN1.png)
+
 With a time difference of 8 microseconds, the frequency of the CAN lines will be at 128000 bit/s, which is precisely what was configured in the initialization of the CAN controller. 
 
 
