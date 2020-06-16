@@ -94,7 +94,7 @@ The following are waveforms indicating the standard and extended identifier fram
 ![Alt text](https://github.com/matt001k/MCP2515_CAN_DRIVER/blob/master/MCP2515/photos/CONTROLLER_RECV_BUFF_WAVEFORM.PNG "STANDARD DATA FRAME") 
 
 ***STANDARD IDENTIFIER REMOTE FRAME***
-![Alt text](https://github.com/matt001k/MCP2515_CAN_DRIVER/blob/master/MCP2515/photos/STA_IDENTIFIER_TEST_RTR_WAVEFORMS.PNG "STANDARD REMOTE FRAME") 
+![Alt text](https://github.com/matt001k/MCP2515_CAN_DRIVER/blob/master/MCP2515/photos/CONTROLLER_RECV_BUFF_RTR_WAVEFORM.PNG "STANDARD REMOTE FRAME") 
 
 ***EXTENDED IDENTIFIER DATA FRAME***
 ![Alt text](https://github.com/matt001k/MCP2515_CAN_DRIVER/blob/master/MCP2515/photos/CONTROLLER_RECV_EXT_ID_TEST_WAVEFORM.PNG "EXTENDED DATA FRAME")
