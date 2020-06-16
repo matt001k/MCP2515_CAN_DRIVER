@@ -60,7 +60,7 @@ mcp2515_status_t mcp2515_rx_buffer_read(uint32_t rx_buf_num, uint32_t *identifie
 
 
 ## Testing
-The MCP2515 was connected with an MCP2562 CAN Transceiver in order to turn the TX lines into CANH and CANL lines on the CAN Bus.
+The MCP2515 was connected with an MCP2562 CAN Transceiver in order to turn the TX lines from the controller into CANH and CANL lines on the CAN Bus.
 The following are results from testing in Loopback mode, which sends and receives data to the same controller(only need one controller in order to test), all testing was done using a logic analyzer with Pulse View software, a serial terminal along with an Oscilloscope:
 
 ### Design Circuit
