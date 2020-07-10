@@ -109,7 +109,3 @@ A data bit of "1" was analyzed in order to determine if the prescaled baud rate 
 
 With a time difference of 8 microseconds, the frequency of the CAN lines will be at 128000 bit/s, which is precisely what was configured in the initialization of the CAN controller. 
 
-
-Items still needed to be tested:
-- Filters and Masks
-- Interface between multiple controllers
