@@ -99,7 +99,7 @@ The following are waveforms indicating the standard and extended identifier fram
 ***EXTENDED IDENTIFIER DATA FRAME***
 ![Alt text](https://github.com/matt001k/MCP2515_CAN_DRIVER/blob/master/MCP2515/photos/CONTROLLER_RECV_EXT_ID_TEST_WAVEFORM.PNG "EXTENDED DATA FRAME")
 
-###CAN Bus CANH and CANL Readings
+### CAN Bus CANH and CANL Readings
 Lastly, in Normal Mode on the controller, the data being sent out was analyzed on an oscilloscope to ensure the CANH and CANL lines were working with the transmitted messages from the controller. The following is a reading of a data fram on a Oscilloscope:
 ![Alt text](https://github.com/matt001k/MCP2515_CAN_DRIVER/blob/master/MCP2515/photos/CAN0.png)
 
